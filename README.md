@@ -12,6 +12,7 @@ To write a Python program to perform stop and wait protocol
 6. Stop the Program
 
 **SERVER SIDE:**
+```
 (1)Start
 (2)Import the socket library.
 (3)Create a socket using socket() function.
@@ -29,8 +30,10 @@ To write a Python program to perform stop and wait protocol
 •Close the connection.
 •Stop execution
 (8)Stop
+```
 
 **CLIENT SIDE:**
+```
 (1)Start
 (2)Import the socket library.
 (3)Create a socket using socket() function.
@@ -41,6 +44,7 @@ To write a Python program to perform stop and wait protocol
 •end acknowledgement to the server using send().
 (6)Continue until the server closes the connection.
 (7)Stop
+```
 
 
 ## PROGRAM
