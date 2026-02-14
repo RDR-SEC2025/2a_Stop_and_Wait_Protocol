@@ -82,5 +82,3 @@ while True:
 Thus, python program to perform stop and wait protocol was successfully executed.
 
 
-## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed.
